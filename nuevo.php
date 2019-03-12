@@ -71,9 +71,9 @@
 
 
 
-    <link rel="stylesheet" href="https://www.bournemouthecho.co.uk/resources/responsive-static/fonts/fontello/css/fontello.css?r=z8YDq4by" media="all" />
-    <link rel="stylesheet" href="https://www.bournemouthecho.co.uk/resources/responsive-static/fonts/icomoon/style.css?r=z8YDq4by" media="all" />
-    <link id="page_stylesheet" href="https://www.bournemouthecho.co.uk/resources/responsive-static/css/redesign/engage-style-light_blue.css?r=z8YDq4by" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="./css/fontello.css?r=z8YDq4by" media="all" />
+    <link rel="stylesheet" href="./css/style.css?r=z8YDq4by" media="all" />
+    <link id="page_stylesheet" href="./css/engage-style-light_blue.css?r=z8YDq4by" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,400italic,600italic,700,700italic,300,300italic|Fira+Sans:400,500,600,700|Roboto:300,400,500,700|Noto+Serif:300,400,500,700|Open+Sans:300,400,500,600,700" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/v4-shims.css">
