@@ -1838,9 +1838,9 @@ Contact this guy....https://uk.linkedin.com/in/hillsimon
     <span class="fas fa-ellipsis-h social-ellipsis"></span>
 </button>
 
-    <a href="#comments-anchor" class="small comments-button">
+    <a href="#" class="small comments-button">
         <i class="m-icon-chat"></i>
-        <span class="comment-text-container">5<span class="comment-text">&nbsp;comments</span></span>
+        <span class="comment-text-container">0<span class="comment-text">&nbsp;comments</span></span>
         <i class="m-icon-angle-down"></i>
     </a>
 
