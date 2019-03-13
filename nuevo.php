@@ -2203,7 +2203,7 @@ Contact this guy....https://uk.linkedin.com/in/hillsimon
                         </section>
 
                         <!--<div class="side-ad" id="DFP_standard_mpu_1"></div>-->
-                        <div class="side-ad" id="DFP_on_scroll"></div>
+                        
                     </aside>
                 </div>
             </div>
@@ -2244,242 +2244,6 @@ Contact this guy....https://uk.linkedin.com/in/hillsimon
 </div><!-- standard BlockArticleFrontEndConfig -->
 
 
-<div class="article-extra">
-
-    <div class="article-continuation block-a" data-number-of-articles="1">
-        <article class="hidden">
-            <ul class="article-tags">
-                <li>
-                    <span></span>
-                </li>
-            </ul>
-
-            <time datetime=""
-                data-format="article-display"
-                data-show-date="always"
-                data-show-time="today-only"
-                data-timestamp=""
-                itemprop="datePublished"
-                class="article-timestamp formatTimeStampEs6"
-                full-date="">&nbsp;
-            </time>
-
-            <a href="" class="article-link"><h3></h3></a>
-            <address class="author-details">
-                <div class="author-image">
-                    <img src="">
-                </div>
-
-                <div class="author-name-container">
-                    <span class="author-name">
-                        <span class="author-by-tag">By</span>
-                        <a href="" class="author-profile-link"></a>
-
-                        <a href="" target="_blank" class="twitter-button">
-                            <span class="fa fa-twitter"></span>
-                            <span class="author-twitter-name"></span>
-                        </a>
-                    </span>
-                    <span class="job-title"></span>
-                </div>
-            </address>
-            <div class="article-hero">
-                <div class="article-image-containter">
-                    <a href="" class="article-link"><img class="article-image" src=""></a>
-                    <p class="image-caption"></p>
-                </div>
-                <div class="continuation-ad-unit hidden">
-                    <a href=""><img src="" /></a>
-                </div>
-            </div>
-            <div class="article-continuation-body">
-                <p></p>
-            </div>
-            <div class="scrim">
-                <a href="" class="article-link">Continue reading <i class="m-icon-right-open-1"></i></a>
-            </div>
-        </article>
-    </div>
-</div><div class="dfp-ad text-center" ><div id="DFP_leaderboard_1"></div></div><!-- standard BlockArticleFrontEndConfig -->
-
-
-<div class="article-extra">
-
-    <div class="article-continuation block-b" data-number-of-articles="1">
-        <article class="hidden">
-            <ul class="article-tags">
-                <li>
-                    <span></span>
-                </li>
-            </ul>
-
-            <time datetime=""
-                data-format="article-display"
-                data-show-date="always"
-                data-show-time="today-only"
-                data-timestamp=""
-                itemprop="datePublished"
-                class="article-timestamp formatTimeStampEs6"
-                full-date="">&nbsp;
-            </time>
-
-            <a href="" class="article-link"><h3></h3></a>
-            <address class="author-details">
-                <div class="author-image">
-                    <img src="">
-                </div>
-
-                <div class="author-name-container">
-                    <span class="author-name">
-                        <span class="author-by-tag">By</span>
-                        <a href="" class="author-profile-link"></a>
-
-                        <a href="" target="_blank" class="twitter-button">
-                            <span class="fa fa-twitter"></span>
-                            <span class="author-twitter-name"></span>
-                        </a>
-                    </span>
-                    <span class="job-title"></span>
-                </div>
-            </address>
-            <div class="article-hero">
-                <div class="article-image-containter">
-                    <a href="" class="article-link"><img class="article-image" src=""></a>
-                    <p class="image-caption"></p>
-                </div>
-                <div class="continuation-ad-unit hidden">
-                    <a href=""><img src="" /></a>
-                </div>
-            </div>
-            <div class="article-continuation-body">
-                <p></p>
-            </div>
-            <div class="scrim">
-                <a href="" class="article-link">Continue reading <i class="m-icon-right-open-1"></i></a>
-            </div>
-        </article>
-    </div>
-</div><div class="dfp-ad text-center" ><div id="DFP_leaderboard_2"></div></div><!-- standard BlockArticleFrontEndConfig -->
-
-
-<div class="article-extra">
-
-    <div class="article-continuation block-c" data-number-of-articles="1">
-        <article class="hidden">
-            <ul class="article-tags">
-                <li>
-                    <span></span>
-                </li>
-            </ul>
-
-            <time datetime=""
-                data-format="article-display"
-                data-show-date="always"
-                data-show-time="today-only"
-                data-timestamp=""
-                itemprop="datePublished"
-                class="article-timestamp formatTimeStampEs6"
-                full-date="">&nbsp;
-            </time>
-
-            <a href="" class="article-link"><h3></h3></a>
-            <address class="author-details">
-                <div class="author-image">
-                    <img src="">
-                </div>
-
-                <div class="author-name-container">
-                    <span class="author-name">
-                        <span class="author-by-tag">By</span>
-                        <a href="" class="author-profile-link"></a>
-
-                        <a href="" target="_blank" class="twitter-button">
-                            <span class="fa fa-twitter"></span>
-                            <span class="author-twitter-name"></span>
-                        </a>
-                    </span>
-                    <span class="job-title"></span>
-                </div>
-            </address>
-            <div class="article-hero">
-                <div class="article-image-containter">
-                    <a href="" class="article-link"><img class="article-image" src=""></a>
-                    <p class="image-caption"></p>
-                </div>
-                <div class="continuation-ad-unit hidden">
-                    <a href=""><img src="" /></a>
-                </div>
-            </div>
-            <div class="article-continuation-body">
-                <p></p>
-            </div>
-            <div class="scrim">
-                <a href="" class="article-link">Continue reading <i class="m-icon-right-open-1"></i></a>
-            </div>
-        </article>
-    </div>
-</div><div class="dfp-ad text-center" ><div id="DFP_leaderboard_3"></div></div><!-- standard BlockArticleFrontEndConfig -->
-
-
-<div class="article-extra">
-
-    <div class="article-continuation block-d" data-number-of-articles="">
-        <article class="hidden">
-            <ul class="article-tags">
-                <li>
-                    <span></span>
-                </li>
-            </ul>
-
-            <time datetime=""
-                data-format="article-display"
-                data-show-date="always"
-                data-show-time="today-only"
-                data-timestamp=""
-                itemprop="datePublished"
-                class="article-timestamp formatTimeStampEs6"
-                full-date="">&nbsp;
-            </time>
-
-            <a href="" class="article-link"><h3></h3></a>
-            <address class="author-details">
-                <div class="author-image">
-                    <img src="">
-                </div>
-
-                <div class="author-name-container">
-                    <span class="author-name">
-                        <span class="author-by-tag">By</span>
-                        <a href="" class="author-profile-link"></a>
-
-                        <a href="" target="_blank" class="twitter-button">
-                            <span class="fa fa-twitter"></span>
-                            <span class="author-twitter-name"></span>
-                        </a>
-                    </span>
-                    <span class="job-title"></span>
-                </div>
-            </address>
-            <div class="article-hero">
-                <div class="article-image-containter">
-                    <a href="" class="article-link"><img class="article-image" src=""></a>
-                    <p class="image-caption"></p>
-                </div>
-                <div class="continuation-ad-unit hidden">
-                    <a href=""><img src="" /></a>
-                </div>
-            </div>
-            <div class="article-continuation-body">
-                <p></p>
-            </div>
-            <div class="scrim">
-                <a href="" class="article-link">Continue reading <i class="m-icon-right-open-1"></i></a>
-            </div>
-        </article>
-    </div>
-</div><!-- standard BlockArticleFrontEndConfig -->
-
-
 <div id="largeMoreArticles" >
 
 
@@ -2490,7 +2254,7 @@ Contact this guy....https://uk.linkedin.com/in/hillsimon
                 <div class="article-card-image">
                     <a href="https://www.bournemouthecho.co.uk/sport/17495930.harry-kane-open-to-callum-wilson-partnership-for-england-but-says-it-is-boss-gareth-southgates-decision/">
                         <picture title="VIEW: England striker Harry Kane (Picture: Aaron Chown/PA)" class="lazy" style="display: block; min-height: 1rem" data-iesrc="https://www.bournemouthecho.co.uk/resources/images/9560264.jpg?htype=0&amp;type=mc2">
-                            <source srcset="/resources/images/9560264.jpg?htype=0&amp;type=mc2">
+                            <source srcset="https://www.bournemouthecho.co.uk/resources/images/9560264.jpg?htype=0&amp;type=mc2">
                         </picture>
                     </a>
                 </div>
@@ -2521,7 +2285,7 @@ Contact this guy....https://uk.linkedin.com/in/hillsimon
 <div class="article-card-image">
     <a href="https://www.bournemouthecho.co.uk/sport/17495931.the-contract-was-to-reward-david-and-for-him-to-kick-on-now/">
         <picture title="DONE DEAL: Cherries star David Brooks" class="lazy" style="display: block; min-height: 1rem" data-iesrc="https://www.bournemouthecho.co.uk/resources/images/9508759.jpg?htype=0&amp;type=mc3">
-            <source srcset="/resources/images/9508759.jpg?htype=0&amp;type=mc3"  media="(min-width: 320px)">
+            <source srcset="https://www.bournemouthecho.co.uk/resources/images/9508759.jpg?htype=0&amp;type=mc3"  media="(min-width: 320px)">
         </picture>
         
         
@@ -2555,7 +2319,7 @@ Contact this guy....https://uk.linkedin.com/in/hillsimon
 <div class="article-card-image">
     <a href="https://www.bournemouthecho.co.uk/sport/17493261.fab-four-can-get-even-better-says-cherries-star-ryan-fraser/">
         <picture title="ON TARGET: Ryan Fraser celebrates his goal at Huddersfield (Picture: Richard Sellers/PA)" class="lazy" style="display: block; min-height: 1rem" data-iesrc="https://www.bournemouthecho.co.uk/resources/images/9554638.jpg?htype=0&amp;type=mc3">
-            <source srcset="/resources/images/9554638.jpg?htype=0&amp;type=mc3"  media="(min-width: 320px)">
+            <source srcset="https://www.bournemouthecho.co.uk/resources/images/9554638.jpg?htype=0&amp;type=mc3"  media="(min-width: 320px)">
         </picture>
         
         
@@ -2594,7 +2358,7 @@ Contact this guy....https://uk.linkedin.com/in/hillsimon
 <div class="article-card-image">
     <a href="https://www.bournemouthecho.co.uk/sport/17494153.youthful-cherries-knocked-out-of-hampshire-senior-cup/">
         <picture title="ON TARGET: Jaidon Anthony" class="lazy" style="display: block; min-height: 1rem" data-iesrc="https://www.bournemouthecho.co.uk/resources/images/9415002.jpg?htype=0&amp;type=mc3">
-            <source srcset="/resources/images/9415002.jpg?htype=0&amp;type=mc3"  media="(min-width: 320px)">
+            <source srcset="https://www.bournemouthecho.co.uk/resources/images/9415002.jpg?htype=0&amp;type=mc3"  media="(min-width: 320px)">
         </picture>
         
         
@@ -2632,7 +2396,7 @@ Contact this guy....https://uk.linkedin.com/in/hillsimon
 <div class="article-card-image">
     <a href="https://www.bournemouthecho.co.uk/sport/17493255.outstanding-chris-mepham-is-perfect-tonic-for-cherries-boss-eddie-howe/">
         <picture title="DEFENDER: Chris Mepham" class="lazy" style="display: block; min-height: 1rem" data-iesrc="https://www.bournemouthecho.co.uk/resources/images/9369575.jpg?htype=0&amp;type=mc3">
-            <source srcset="/resources/images/9369575.jpg?htype=0&amp;type=mc3"  media="(min-width: 320px)">
+            <source srcset="https://www.bournemouthecho.co.uk/resources/images/9369575.jpg?htype=0&amp;type=mc3"  media="(min-width: 320px)">
         </picture>
         
         
@@ -2670,7 +2434,7 @@ Contact this guy....https://uk.linkedin.com/in/hillsimon
 <div class="article-card-image">
     <a href="https://www.bournemouthecho.co.uk/sport/17493256.we-want-to-focus-on-positive-things-says-boss-eddie-howe/">
         <picture title="UPBEAT: Eddie Howe" class="lazy" style="display: block; min-height: 1rem" data-iesrc="https://www.bournemouthecho.co.uk/resources/images/9374970.jpg?htype=0&amp;type=mc3">
-            <source srcset="/resources/images/9374970.jpg?htype=0&amp;type=mc3"  media="(min-width: 320px)">
+            <source srcset="https://www.bournemouthecho.co.uk/resources/images/9374970.jpg?htype=0&amp;type=mc3"  media="(min-width: 320px)">
         </picture>
         
         
@@ -2708,7 +2472,7 @@ Contact this guy....https://uk.linkedin.com/in/hillsimon
 <div class="article-card-image">
     <a href="https://www.bournemouthecho.co.uk/sport/17493253.alan-connell-sees-clear-development-from-cherries-young-loanees/">
         <picture title="SIX OF THE BEST: Jake Scrimshaw celebrates with Jez Bedford (Picture: Andy Orman)" class="lazy" style="display: block; min-height: 1rem" data-iesrc="https://www.bournemouthecho.co.uk/resources/images/9554622.jpg?htype=0&amp;type=mc3">
-            <source srcset="/resources/images/9554622.jpg?htype=0&amp;type=mc3"  media="(min-width: 320px)">
+            <source srcset="https://www.bournemouthecho.co.uk/resources/images/9554622.jpg?htype=0&amp;type=mc3"  media="(min-width: 320px)">
         </picture>
         
         
@@ -2746,7 +2510,7 @@ Contact this guy....https://uk.linkedin.com/in/hillsimon
 <div class="article-card-image">
     <a href="https://www.bournemouthecho.co.uk/sport/17490710.callum-wilson-eyeing-seventh-place-finish-which-could-be-enough-for-european-football/">
         <picture title="MAN OF THE MOMENT: Callum Wilson, centre, celebrates scoring against Huddersfield (Picture: Richard Sellers/PA)" class="lazy" style="display: block; min-height: 1rem" data-iesrc="https://www.bournemouthecho.co.uk/resources/images/9546370.jpg?htype=0&amp;type=mc3">
-            <source srcset="/resources/images/9546370.jpg?htype=0&amp;type=mc3"  media="(min-width: 320px)">
+            <source srcset="https://www.bournemouthecho.co.uk/resources/images/9546370.jpg?htype=0&amp;type=mc3"  media="(min-width: 320px)">
         </picture>
         
         
@@ -2784,7 +2548,7 @@ Contact this guy....https://uk.linkedin.com/in/hillsimon
 <div class="article-card-image">
     <a href="https://www.bournemouthecho.co.uk/sport/17490712.eddie-howe-to-wait-and-see-over-adam-smith-injury/">
         <picture title="INJURED: Adam Smith (Picture: Richard Sellers/PA)" class="lazy" style="display: block; min-height: 1rem" data-iesrc="https://www.bournemouthecho.co.uk/resources/images/9548858.jpg?htype=0&amp;type=mc3">
-            <source srcset="/resources/images/9548858.jpg?htype=0&amp;type=mc3"  media="(min-width: 320px)">
+            <source srcset="https://www.bournemouthecho.co.uk/resources/images/9548858.jpg?htype=0&amp;type=mc3"  media="(min-width: 320px)">
         </picture>
         
         
